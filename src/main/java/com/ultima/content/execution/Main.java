@@ -12,7 +12,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         List<Double> areaFiguras = new ArrayList<>();
-        System.out.println("testing commit");
+        System.out.println("moving the code to branch dev");
         //Retângulo
         Retangulo figuraR = new Retangulo();
         System.out.println("Digita o lado1 do Retangulo");
